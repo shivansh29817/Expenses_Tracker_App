@@ -63,10 +63,9 @@ A beautiful and modern expense tracking application built with React and styled 
 ## 📱 Screenshots
 
 ### Desktop View
-![Desktop Screenshot](https://via.placeholder.com/800x600/8b5cf6/ffffff?text=Desktop+View)
+![{9014D9D9-FABA-4C7C-9464-039D504292AE}](https://github.com/user-attachments/assets/281b4233-a6a0-449a-945d-0cedd0bc4c1f)
 
-### Mobile View
-![Mobile Screenshot](https://via.placeholder.com/400x800/ec4899/ffffff?text=Mobile+View)
+
 
 ## 🛠️ Tech Stack
 
