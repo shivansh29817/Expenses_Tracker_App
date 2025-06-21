@@ -157,7 +157,7 @@ button:active {
   font-size: 1.1rem;
   flex: 1;
   margin-right: 1rem;
-  width: 470px;
+  width: 450px;
 }
 
 .expense-list li span:last-of-type {
