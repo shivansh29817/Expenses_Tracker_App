@@ -26,7 +26,7 @@ A beautiful and modern expense tracking application built with React and styled 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
+   git clone https://github.com/shivansh29817/Expenses_Tracker_App.git
    cd expense-tracker
    ```
 
@@ -106,7 +106,7 @@ expense-tracker/
 ## 🎨 Customization
 
 ### Changing Colors
-Modify the CSS variables in `ExpenseTracker.css`:
+Modify the CSS variables in `App.css`:
 
 ```css
 /* Change gradient colors */
@@ -163,9 +163,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername) - your.email@example.com
+Your Name - [@shivansh._.rusty](https://instagram.com/shivansh._.rusty) - shivansh29817@gmail.com
 
-Project Link: [https://github.com/yourusername/expense-tracker](https://github.com/yourusername/expense-tracker)
+Project Link: (https://github.com/shivansh29817/Expenses_Tracker_App)
 
 ---
 
